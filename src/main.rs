@@ -24,7 +24,7 @@ pub mod video_game_case {
                     println!("Monster is dead {:?}", self);
                 }
             } else {
-                eprintln!("(Error monster already dead !")
+                eprintln!("Error monster already dead !")
             }
         }
 
